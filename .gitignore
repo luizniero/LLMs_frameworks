@@ -161,7 +161,7 @@ cython_debug/
 
 
 # executables
-.ps1
-.exe
-.bat
-.bin
+*.ps1
+*.exe
+*.bat
+*.bin
