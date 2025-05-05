@@ -126,7 +126,9 @@ env/
 venv/
 ENV/
 env.bak/
+rag_venv/
 venv.bak/
+
 
 # Spyder project settings
 .spyderproject
@@ -165,3 +167,5 @@ cython_debug/
 *.exe
 *.bat
 *.bin
+LangChain/chroma_db/chroma.sqlite3
+LangChain/chroma_db/21a6664e-125b-4523-b7a5-201dc63dec22/index_metadata.pickle
